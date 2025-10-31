@@ -1,0 +1,1 @@
+SCRIPT ------ loadstring(game:HttpGet("https://raw.githubusercontent.com/zyukalinW/simple-script-roblox-/refs/heads/main/main.lua"))()
